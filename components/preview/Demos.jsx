@@ -12,7 +12,7 @@ export default function Demos() {
             </h3>
           </div>
           <h2 className="!text-[calc(1.345rem_+_1.14vw)] font-bold !leading-[1.2] xl:!text-[2.2rem] !mb-3 !text-center xxl:!px-8">
-            Functional, impressive and rich demos to start with
+            Explore our AI Agent demos for every business need
           </h2>
         </div>
         {/* /column */}
@@ -849,7 +849,7 @@ export default function Demos() {
       <div className="flex flex-wrap mx-[-15px] !mb-8 !text-center">
         <div className="md:w-11/12 lg:w-10/12 xl:w-8/12 w-full xxl:w-7/12 flex-[0_0_auto] !px-[15px] max-w-full !mx-auto">
           <h2 className="!text-[calc(1.345rem_+_1.14vw)] font-bold !leading-[1.2] xl:!text-[2.2rem] !mt-3 !mb-3 lg:!px-10 xl:!px-0">
-            Save your time and money by choosing Sandbox for your website.
+            Save time and money with ready-made AI agents.
           </h2>
         </div>
         {/* /column */}
@@ -1144,7 +1144,7 @@ export default function Demos() {
       <div className="flex flex-wrap mx-[-15px] !text-center !mt-[7rem] xl:!mt-[9rem] lg:!mt-[9rem] md:!mt-[9rem] !mb-9 xl:!mb-12 lg:!mb-12 md:!mb-12">
         <div className="md:w-11/12 lg:w-10/12 xl:w-8/12 xxl:w-7/12 w-full flex-[0_0_auto] !px-[15px] max-w-full !mx-auto">
           <h2 className="!text-[calc(1.345rem_+_1.14vw)] font-bold !leading-[1.2] xl:!text-[2.2rem] !mb-0 lg:!px-10 xl:!px-0">
-            Build your website using the powerful features of Sandbox
+            Grow your business using the powerful features of Action Agent
           </h2>
         </div>
         {/* /column */}
