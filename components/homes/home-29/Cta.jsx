@@ -36,12 +36,10 @@ export default function Cta() {
               height={117}
             />
             <h2 className="!text-[calc(1.325rem_+_0.9vw)] font-semibold !leading-[1.2] xl:!text-[2rem] !mb-4">
-              Manage all your bills, accounts &amp; budgets in
-              <span className="text-gradient gradient-7">one place.</span>
+              AI Agents ready to help your business
             </h2>
             <p className="lead !text-[1.2rem] !leading-[1.5] !font-normal !mb-7">
-              Sandbox is available to download from both App Store and Google
-              Play Store.
+              Your Smartest AI Chatbot – Always Ready to Assist! Experience seamless conversations, instant answers, and 24/7 support.
             </p>
             <div className="flex justify-center xl:!justify-start lg:!justify-start">
               <span className="inline-flex">

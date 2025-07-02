@@ -80,17 +80,14 @@ export default function Testimonials() {
               <div className="card-body flex-[1_1_auto] p-[40px]">
                 <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                   <p>
-                    “Vivamus sagittis lacus vel augue laoreet rutrum faucibus
-                    dolor auctor. Vestibulum id ligula porta felis euismod
-                    semper. Cras justo odio dapibus facilisis sociis natoque
-                    penatibus.”
+                    “Our support team is lean, and Action.cr made it possible to offer 24/7 coverage. The multilingual support feature is especially valuable for our global customer base. Highly recommended!”
                   </p>
                   <div className="flex items-center text-left">
                     <div className="info !pl-0">
                       <h5 className="!mb-1 text-[.9rem] !leading-[1.5]">
-                        Coriss Ambady
+                        Aron Smith
                       </h5>
-                      <p className="!mb-0 text-[.8rem]">Financial Analyst</p>
+                      <p className="!mb-0 text-[.8rem]">Head of Customer Support</p>
                     </div>
                   </div>
                 </blockquote>
@@ -105,18 +102,14 @@ export default function Testimonials() {
               <div className="card-body flex-[1_1_auto] p-[40px]">
                 <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                   <p>
-                    “Fusce dapibus, tellus ac cursus tortor mauris condimentum
-                    fermentum massa justo sit amet. Vivamus sagittis lacus vel
-                    augue laoreet rutrum faucibus dolor auctor. Cras mattis
-                    consectetur purus sit amet fermentum. Aenean lacinia
-                    bibendum nulla sed consectetur.”
+                    “We used agents to automate internal status updates and client communications. It now handles dozens of queries daily, saving us time and improving accuracy.”
                   </p>
                   <div className="flex items-center text-left">
                     <div className="info !pl-0">
                       <h5 className="!mb-1 text-[.9rem] !leading-[1.5]">
-                        Cory Zamora
+                        Jonh Rojers
                       </h5>
-                      <p className="!mb-0 text-[.8rem]">Marketing Specialist</p>
+                      <p className="!mb-0 text-[.8rem]">Operations Manager, TransGlobal Logistics</p>
                     </div>
                   </div>
                 </blockquote>
@@ -131,15 +124,12 @@ export default function Testimonials() {
               <div className="card-body flex-[1_1_auto] p-[40px]">
                 <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                   <p>
-                    “Curabitur blandit tempus porttitor. Vivamus sagittis lacus
-                    vel augue laoreet rutrum faucibus dolor auctor. Nullam quis
-                    risus eget porta ac consectetur vestibulum. Donec sed odio
-                    dui consectetur adipiscing elit.”
+                    “This platform has transformed how we manage incoming leads. The AI agents are responsive, smart, and integrate perfectly with our CRM. We've seen a 40% boost in qualified leads.”
                   </p>
                   <div className="flex items-center text-left">
                     <div className="info !pl-0">
                       <h5 className="!mb-1 text-[.9rem] !leading-[1.5]">
-                        Nikolas Brooten
+                        Kate Neville
                       </h5>
                       <p className="!mb-0 text-[.8rem]">Sales Manager</p>
                     </div>
@@ -156,17 +146,14 @@ export default function Testimonials() {
               <div className="card-body flex-[1_1_auto] p-[40px]">
                 <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                   <p>
-                    “Etiam adipiscing tincidunt elit convallis felis suscipit
-                    ut. Phasellus rhoncus tincidunt auctor. Nullam eu sagittis
-                    mauris. Donec non dolor ac elit aliquam tincidunt at at
-                    sapien. Aenean tortor libero condimentum ac laoreet vitae.”
+                    “Deploying AI agents without writing a line of code was a game-changer. Action.cr gave us speed, flexibility, and automation that scaled effortlessly with our operations.”
                   </p>
                   <div className="flex items-center text-left">
                     <div className="info !pl-0">
                       <h5 className="!mb-1 text-[.9rem] !leading-[1.5]">
-                        Coriss Ambady
+                        Mark Sorensen
                       </h5>
-                      <p className="!mb-0 text-[.8rem]">Financial Analyst</p>
+                      <p className="!mb-0 text-[.8rem]">SwiftCommerce</p>
                     </div>
                   </div>
                 </blockquote>
@@ -181,17 +168,14 @@ export default function Testimonials() {
               <div className="card-body flex-[1_1_auto] p-[40px]">
                 <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                   <p>
-                    “Maecenas sed diam eget risus varius blandit sit amet non
-                    magna. Cum sociis natoque penatibus magnis dis montes,
-                    nascetur ridiculus mus. Donec sed odio dui. Nulla vitae elit
-                    libero a pharetra.”
+                    “Our support team is lean, and Action.cr made it possible to offer 24/7 coverage. The multilingual support feature is especially valuable for our global customer base. Highly recommended!”
                   </p>
                   <div className="flex items-center text-left">
                     <div className="info !pl-0">
                       <h5 className="!mb-1 text-[.9rem] !leading-[1.5]">
-                        Jackie Sanders
+                        Aron Smith
                       </h5>
-                      <p className="!mb-0 text-[.8rem]">Investment Planner</p>
+                      <p className="!mb-0 text-[.8rem]">Head of Customer Support</p>
                     </div>
                   </div>
                 </blockquote>
