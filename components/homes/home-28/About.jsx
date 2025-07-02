@@ -19,23 +19,19 @@ export default function About() {
         {/*/column */}
         <div className="xl:w-6/12 lg:w-6/12 w-full flex-[0_0_auto] !px-[15px] max-w-full md:!px-[20px] lg:!px-[20px] xl:!px-[35px] !mt-[30px]">
           <h2 className="xl:!text-[2rem] !text-[calc(1.325rem_+_.9vw)] font-semibold !leading-[1.2] !mb-3">
-            More <em>about</em> me
+            More <em>about</em> ActionAgent.ai
           </h2>
           <p className="lead !text-[1.05rem] !leading-[1.55] !font-normal">
-            I'm Julia Sandbox, a corporate brand designer based in New York
-            City. I’m very passionate about the work that I do.
+            ActionAgent.ai is a platform that lets you deploy custom AI agents
+            to handle repetitive tasks and streamline your workflows.
           </p>
           <p>
-            Duis mollis, est non commodo luctus, nisi erat porttitor ligula,
-            eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus
-            commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-            sit amet risus. Etiam porta sem malesuada magna mollis euismod.
-            Vestibulum id ligula.
+            Use our simple builder to design your agent, connect it to the tools
+            you already use and deploy in minutes.
           </p>
           <p>
-            Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis
-            vestibulum. Aenean lacinia bibendum nulla sed consectetur. Curabitur
-            blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur.
+            Track performance with built‑in analytics and iterate quickly as
+            your business grows.
           </p>
           <a
             href="#"

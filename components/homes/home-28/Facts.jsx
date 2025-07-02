@@ -8,10 +8,10 @@ export default function Facts() {
         <div className="flex flex-wrap mx-[-15px] xl:mx-[-35px] lg:mx-[-20px] !mt-[-50px] xl:!mt-0 lg:!mt-0">
           <div className="xl:w-4/12 lg:w-4/12 w-full flex-[0_0_auto] !px-[15px] max-w-full text-center lg:text-left xl:text-left xl:!px-[35px] lg:!px-[20px] !mt-[50px] xl:!mt-0 lg:!mt-0">
             <h3 className="xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] font-semibold !leading-[1.2] !mb-3 xxl:!pr-20">
-              I am <em>proud</em> of my results
+              ActionAgent.ai <em>by the numbers</em>
             </h3>
             <p className="lead !text-[1.05rem] !leading-[1.55] !font-normal !mb-0 xxl:!pr-10">
-              I bring solutions to make life easier for our customers.
+              We make automation simple and reliable for our customers.
             </p>
           </div>
           {/* /column */}
@@ -48,7 +48,7 @@ export default function Facts() {
                 <h3 className="counter xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] !tracking-[normal] !leading-none !mb-2">
                   <Counter max={1000} />+
                 </h3>
-                <p className="!mb-0">Completed Projects</p>
+                <p className="!mb-0">Agents Deployed</p>
               </div>
               {/*/column */}
               <div className="xl:w-4/12 lg:w-4/12 md:w-4/12 w-full flex-[0_0_auto] !px-[15px] max-w-full !mt-[30px]">
@@ -70,7 +70,7 @@ export default function Facts() {
                 <h3 className="counter xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] !tracking-[normal] !leading-none !mb-2">
                   <Counter max={12} />
                 </h3>
-                <p className="!mb-0">Awards Won</p>
+                <p className="!mb-0">Integrations</p>
               </div>
               {/*/column */}
               <div className="xl:w-4/12 lg:w-4/12 md:w-4/12 w-full flex-[0_0_auto] !px-[15px] max-w-full !mt-[30px]">
@@ -121,9 +121,9 @@ export default function Facts() {
                 </svg>
                 <h3 className="counter xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] !tracking-[normal] !leading-none !mb-2">
                   <Counter max={99} />
-                  .7%
+                  .9%
                 </h3>
-                <p className="!mb-0">Customer Satisfaction</p>
+                <p className="!mb-0">Platform Uptime</p>
               </div>
               {/*/column */}
             </div>

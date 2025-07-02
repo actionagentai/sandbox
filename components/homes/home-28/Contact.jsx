@@ -31,11 +31,11 @@ export default function Contact() {
               />
             </svg>
             <h2 className="!text-[calc(1.325rem_+_0.9vw)] font-bold !leading-[1.2] xl:!text-[2rem] !mb-3 xl:!pr-[4.5rem] xxl:!pr-24">
-              If you like what you see, <em>let's work</em> together.
+              Ready to build your AI agent? <em>Let's talk</em>.
             </h2>
             <p className="lead !text-[1.05rem] !leading-[1.55] !font-normal xxl:!pr-14 !mb-0">
-              Have any questions? Reach out to me from this contact form and I
-              will get back to you shortly.
+              Have any questions? Reach out using this form and our team will
+              get back to you shortly.
             </p>
           </div>
           {/* /column */}
