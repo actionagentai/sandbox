@@ -81,16 +81,16 @@ export default function Footer13() {
             <div className="widget">
               <h4 className="widget-title !text-white !mb-3">Get in Touch</h4>
               <address className="not-italic !leading-[inherit] !mb-4">
-                Moonshine St. 14/05 Light City, London, United Kingdom
+                11975 W Sample Rd, Coral Springs FL 33065
               </address>
               <a
                 className="!text-[#cacaca] hover:!text-[#3f78e0]"
-                href="mailto:first.last@email.com"
+                href="mailto:info@actionagent.ai"
               >
-                info@email.com
+                info@actionagent.ai
               </a>
               <br />
-              00 (123) 456 78 90
+              +1 954 906 9919
             </div>
             {/* /.widget */}
           </div>
