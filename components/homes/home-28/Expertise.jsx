@@ -48,10 +48,10 @@ export default function Expertise() {
                         d="M133.63 256a8 8 0 01-7.89-9.38l5.67-32.06a8 8 0 012.22-4.27l79.2-79.2c9.73-9.75 19.28-7.12 24.51-1.89l13.2 13.2a18.69 18.69 0 010 26.4l-79.2 79.2a7.83 7.83 0 01-4.27 2.22l-32 5.67a10.71 10.71 0 01-1.44.11zm32.05-13.65z"
                       />
                     </svg>
-                    <h3>Content Marketing</h3>
+                    <h3>Agent Builder</h3>
                     <p className="!mb-2">
-                      Nulla vitae elit libero, a pharetra augue. Donec id elit
-                      non mi porta gravida.
+                      Design and configure AI agents with an intuitive
+                      drag‑and‑drop interface.
                     </p>
                     <a
                       href="#"
@@ -101,10 +101,10 @@ export default function Expertise() {
                         d="M29.33 136.13a8 8 0 01-8-8 107.1 107.1 0 0161.73-96.77 8 8 0 116.73 14.51 91 91 0 00-52.48 82.26 8 8 0 01-7.98 8zm197.34 0a8 8 0 01-8-8 91 91 0 00-52.48-82.26 8 8 0 116.74-14.51 107.09 107.09 0 0161.73 96.77 8 8 0 01-8 8zM128 234.8a105.08 105.08 0 01-11.15-.58 8 8 0 011.66-15.9 93.73 93.73 0 0019.6-.06 8 8 0 011.76 15.9 110.68 110.68 0 01-11.87.64z"
                       />
                     </svg>
-                    <h3>Social Engagement</h3>
+                    <h3>Workflow Automation</h3>
                     <p className="!mb-2">
-                      Nulla vitae elit libero, a pharetra augue. Donec id elit
-                      non mi porta gravida.
+                      Automate repetitive tasks and let your agents work around
+                      the clock.
                     </p>
                     <a
                       href="#"
@@ -150,10 +150,10 @@ export default function Expertise() {
                         d="M160.53 208v.11a.93.93 0 00-.53-.11z"
                       />
                     </svg>
-                    <h3>Identity &amp; Branding</h3>
+                    <h3>Integrations</h3>
                     <p className="!mb-2">
-                      Nulla vitae elit libero, a pharetra augue. Donec id elit
-                      non mi porta gravida.
+                      Connect agents to your existing tech stack with powerful
+                      APIs.
                     </p>
                     <a
                       href="#"
@@ -185,10 +185,10 @@ export default function Expertise() {
                         d="M118.59 132.76L118.46 256 5.23 196.91A9.89 9.89 0 010 188.22V74.2l48 23.64v41.55a9.6 9.6 0 1019.2 0v-31.94l6.4 3.12zm137.28-58.43l-118.08 58.31-.13 123.23L256 194.08z"
                       />
                     </svg>
-                    <h3>Product Design</h3>
+                    <h3>Analytics &amp; Insights</h3>
                     <p className="!mb-2">
-                      Nulla vitae elit libero, a pharetra augue. Donec id elit
-                      non mi porta gravida.
+                      Measure agent performance and uncover opportunities for
+                      improvement.
                     </p>
                     <a
                       href="#"
