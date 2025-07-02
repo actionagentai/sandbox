@@ -64,7 +64,7 @@ export default function Contact() {
               />
             </svg>
             <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-8">
-              Convinced yet? Let's make something great together.
+              Build smarter workflows with AI Agents!
             </h2>
             <div className="flex flex-row">
               <div>
@@ -75,9 +75,7 @@ export default function Contact() {
               <div>
                 <h5 className="!mb-1">Address</h5>
                 <address className="not-italic !leading-[inherit] !mb-4">
-                  Moonshine St. 14/05 Light City,
-                  <br className="hidden xl:block lg:block md:block" />
-                  London, United Kingdom
+                  11975 W Sample Rd, Coral Springs FL 33065
                 </address>
               </div>
             </div>
@@ -89,7 +87,7 @@ export default function Contact() {
               </div>
               <div>
                 <h5 className="!mb-1">Phone</h5>
-                <p>00 (123) 456 78 90</p>
+                <p>+1 954 906 9919</p>
               </div>
             </div>
             <div className="flex flex-row">
@@ -102,10 +100,10 @@ export default function Contact() {
                 <h5 className="!mb-1">E-mail</h5>
                 <p className="!mb-0">
                   <a
-                    href="mailto:sandbox@email.com"
+                    href="mailto:info@actionagent.ai"
                     className="!text-[#60697b]"
                   >
-                    sandbox@email.com
+                    info@actionagent.ai
                   </a>
                 </p>
               </div>

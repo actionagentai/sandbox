@@ -37,11 +37,10 @@ export default function Hero() {
               <div className="flex flex-wrap mx-[-15px] !h-full">
                 <div className="md:w-10/12 md:!ml-[8.33333333%] lg:w-7/12 lg:!ml-0 xl:w-6/12 xxl:w-5/12 w-full flex-[0_0_auto] !px-[15px] max-w-full text-center lg:text-left xl:text-left justify-center self-center items-start">
                   <h2 className="xl:!text-[2.8rem] !leading-[1.2] font-bold !text-[calc(1.405rem_+_1.86vw)] !mb-4 !text-white animate__animated animate__slideInDown animate__delay-1s">
-                    We bring solutions to make life easier.
+                    AI Agents ready to help your business
                   </h2>
                   <p className="lead text-[1.15rem] leading-normal !mb-7 !text-white animate__animated animate__slideInRight animate__delay-2s">
-                    We are a creative company that focuses on long term
-                    relationships with customers.
+                    Your Smartest AI Chatbot – Always Ready to Assist! Experience seamless conversations, instant answers, and 24/7 support.
                   </p>
                   <div className="animate__animated animate__slideInUp animate__delay-3s">
                     <Link
@@ -69,10 +68,10 @@ export default function Hero() {
               <div className="flex flex-wrap mx-[-15px] !h-full">
                 <div className="md:w-11/12 lg:w-8/12 xl:w-7/12 xxl:w-6/12 w-full flex-[0_0_auto] !px-[15px] max-w-full !mx-auto !text-center justify-center self-center">
                   <h2 className="xl:!text-[2.8rem] !leading-[1.2] font-bold !text-[calc(1.405rem_+_1.86vw)] !mb-4 !text-white animate__animated animate__slideInDown animate__delay-1s">
-                    We are trusted by over a million customers.
+                    Our Agents Sell while you Scale
                   </h2>
                   <p className="lead text-[1.15rem] leading-normal !mb-7 !text-white animate__animated animate__slideInRight animate__delay-2s">
-                    Here a few reasons why our customers choose us.
+                    Your AI Agents don’t just chat—it books, schedules, and sells while you focus on growing your business.
                   </p>
                   <div className="animate__animated animate__slideInUp animate__delay-3s">
                     <a
@@ -100,11 +99,10 @@ export default function Hero() {
               <div className="flex flex-wrap mx-[-15px] !h-full">
                 <div className="md:w-10/12 md:!ml-[8.33333333%] lg:w-7/12 lg:!ml-[41.66666667%] xl:w-6/12 xl:!ml-[50%] xxl:w-5/12 w-full flex-[0_0_auto] !px-[15px] max-w-full xxl:!ml-[50%] text-center lg:text-left xl:text-left justify-center self-center items-start">
                   <h2 className="xl:!text-[2.8rem] !leading-[1.2] font-bold !text-[calc(1.405rem_+_1.86vw)] !mb-4 !text-white animate__animated animate__slideInDown animate__delay-1s">
-                    Just sit and relax.
+                    Turn Every Conversation Into Revenue
                   </h2>
                   <p className="lead text-[1.15rem] leading-normal !mb-7 !text-white animate__animated animate__slideInRight animate__delay-2s">
-                    We make sure your spending is stress free so that you can
-                    have the perfect control.
+                    Your AI Agents instantly convert customer inquiries into confirmed bookings 24/7.
                   </p>
                   <div className="animate__animated animate__slideInUp animate__delay-3s">
                     <Link

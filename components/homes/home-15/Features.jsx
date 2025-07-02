@@ -66,17 +66,13 @@ export default function Features() {
           />
         </svg>
         <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-3">
-          Who Are We?
+          What is Action Agent?
         </h2>
         <p className="lead !text-[1.05rem] !leading-[1.6] font-medium">
-          We are a digital and branding company that believes in the power of
-          creative strategy and along with great design.
+          Your AI Agents that doesn’t just chat—it books, schedules, and sells while you focus on growing your business.
         </p>
         <p className="!mb-6">
-          Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget
-          quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur
-          et.
+          Turn Every Conversation Into Revenue as your agents convert customer inquiries into confirmed bookings 24/7.
         </p>
         <div className="flex flex-wrap mx-[-15px] !mt-[-15px] xl:mx-[-20px]">
           <div className="xl:w-6/12 w-full flex-[0_0_auto] !mt-[15px] xl:!px-[20px] !px-[15px] max-w-full">
@@ -85,15 +81,13 @@ export default function Features() {
                 <span>
                   <i className="uil uil-check w-4 h-4 text-[0.8rem] leading-none !tracking-[normal] !text-center flex justify-center items-center bg-[#dce7f9] !text-[#3f78e0] rounded-[100%] top-[0.2rem] before:content-['\e9dd'] before:align-middle before:table-cell absolute left-0" />
                 </span>
-                <span>Aenean eu leo quam ornare curabitur blandit tempus.</span>
+                <span>Launch AI-powered agents tailored to your goals.</span>
               </li>
               <li className="relative !pl-6 !mt-3">
                 <span>
                   <i className="uil uil-check w-4 h-4 text-[0.8rem] leading-none !tracking-[normal] !text-center flex justify-center items-center bg-[#dce7f9] !text-[#3f78e0] rounded-[100%] top-[0.2rem] before:content-['\e9dd'] before:align-middle before:table-cell absolute left-0" />
                 </span>
-                <span>
-                  Nullam quis risus eget urna mollis ornare donec elit.
-                </span>
+                <span>Automate repetitive tasks and focus on growth.</span>
               </li>
             </ul>
           </div>
@@ -104,13 +98,13 @@ export default function Features() {
                 <span>
                   <i className="uil uil-check w-4 h-4 text-[0.8rem] leading-none !tracking-[normal] !text-center flex justify-center items-center bg-[#dce7f9] !text-[#3f78e0] rounded-[100%] top-[0.2rem] before:content-['\e9dd'] before:align-middle before:table-cell absolute left-0" />
                 </span>
-                <span>Etiam porta sem malesuada magna mollis euismod.</span>
+                <span>Save time and boost productivity with precision.</span>
               </li>
               <li className="relative !pl-6 !mt-3">
                 <span>
                   <i className="uil uil-check w-4 h-4 text-[0.8rem] leading-none !tracking-[normal] !text-center flex justify-center items-center bg-[#dce7f9] !text-[#3f78e0] rounded-[100%] top-[0.2rem] before:content-['\e9dd'] before:align-middle before:table-cell absolute left-0" />
                 </span>
-                <span>Fermentum massa vivamus faucibus amet euismod.</span>
+                <span>Unified AI-powered operations.</span>
               </li>
             </ul>
           </div>

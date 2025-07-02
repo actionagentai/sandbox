@@ -35,12 +35,11 @@ export default function Features() {
                 <div className="card-body flex-[1_1_auto] p-[40px]">
                   <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 m-[0_0_1rem] relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                     <p>
-                      “Sandbox is really attractive and it saves my time. The
-                      support team is really amazing.”
+                      “Our support team is lean, and Action.cr made it possible to offer 24/7 coverage.”
                     </p>
                     <div className="flex items-center text-left">
                       <div className="info p-0">
-                        <h5 className="!mb-0">stevenstrange</h5>
+                        <h5 className="!mb-0">Aron Smith</h5>
                       </div>
                     </div>
                   </blockquote>
@@ -55,13 +54,11 @@ export default function Features() {
                 <div className="card-body flex-[1_1_auto] p-[40px]">
                   <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 m-[0_0_1rem] relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                     <p>
-                      “This is just next level stuff in terms of quality, docs
-                      and features. I don't think I'm going to need or tolerate
-                      any other template from now on.”
+                      “We used agents to automate internal status updates and client communications.”
                     </p>
                     <div className="flex items-center text-left">
                       <div className="info p-0">
-                        <h5 className="!mb-0">70656e6973</h5>
+                        <h5 className="!mb-0">Jonh Rojers</h5>
                       </div>
                     </div>
                   </blockquote>
@@ -76,13 +73,11 @@ export default function Features() {
                 <div className="card-body flex-[1_1_auto] p-[40px]">
                   <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 m-[0_0_1rem] relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                     <p>
-                      “I've been a Themeforest user for almost 10 years and I
-                      have purchased well over 100 themes during my time. This
-                      theme is amongst the best here.”
+                      “This platform has transformed how we manage incoming leads and integrate with our CRM.”
                     </p>
                     <div className="flex items-center text-left">
                       <div className="info p-0">
-                        <h5 className="!mb-0">bmwe92m3</h5>
+                        <h5 className="!mb-0">Kate Neville</h5>
                       </div>
                     </div>
                   </blockquote>
@@ -97,13 +92,11 @@ export default function Features() {
                 <div className="card-body flex-[1_1_auto] p-[40px]">
                   <blockquote className="!text-[0.85rem] !leading-[1.7] !font-normal !pl-4 icon !mb-0 m-[0_0_1rem] relative p-0 border-0 before:content-['\201d'] before:absolute before:top-[-1.5rem] before:left-[-0.9rem] before:text-[rgba(52,63,82,0.05)] before:text-[10rem] before:leading-none before:z-[1]">
                     <p>
-                      “Simply the best templates that I have bought so far.
-                      Super clean code, intuitive documentations, and most
-                      important of all the best design.”
+                      “Deploying AI agents without writing a line of code was a game-changer.”
                     </p>
                     <div className="flex items-center text-left">
                       <div className="info p-0">
-                        <h5 className="!mb-0">oziuji</h5>
+                        <h5 className="!mb-0">Mark Sorensen</h5>
                       </div>
                     </div>
                   </blockquote>
@@ -119,17 +112,16 @@ export default function Features() {
         {/*/column */}
         <div className="xl:w-4/12 lg:w-4/12 w-full flex-[0_0_auto] xl:!px-[35px] lg:!px-[20px] !px-[15px] !mt-[50px] max-w-full">
           <h2 className="!text-[calc(1.345rem_+_1.14vw)] font-bold !leading-[1.2] xl:!text-[2.2rem] !mb-4 xl:!mt-[-1.5rem] lg:!mt-[-1.5rem]">
-            Our top priority is ensuring customer satisfaction.
+            Our top priority is helping you scale effortlessly.
           </h2>
           <p className="lead !text-[1.1rem] !leading-[1.6] !mb-6">
-            Don't take our word for it. Hear from customers about Sandbox.
+            Don't take our word for it. Hear from customers about Action Agent.
           </p>
           <a
-            href="https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/reviews/51340309"
+            href="/contact"
             className="btn btn-lg btn-grape !text-white !bg-[#605dba] border-[#605dba] hover:text-white hover:bg-[#605dba] hover:!border-[#605dba] active:text-white active:bg-[#605dba] active:border-[#605dba] disabled:text-white disabled:bg-[#605dba] disabled:border-[#605dba] btn-icon btn-icon-end !rounded-[0.8rem]"
-            target="_blank"
           >
-            All Reviews
+            Customer Stories
             <i className="uil uil-arrow-up-right !ml-[.3rem] before:content-['\e950']" />
           </a>
         </div>

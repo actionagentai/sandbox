@@ -106,14 +106,13 @@ export default function Hero() {
           </div>
           <div data-cues="slideInDown" data-group="page-title">
             <h1 className="xl:!text-[3.2rem] !text-[calc(1.445rem_+_2.34vw)] font-semibold !leading-[1.15] !mb-5 md:mx-10 lg:mx-0 xl:mx-0">
-              Create a powerful but effortless website for <br />
+              Deploy powerful AI agents for <br />
               <span className="rotator-fade !text-[#605dba]">
                 <AnimatedText />
               </span>
             </h1>
             <p className="lead !text-[1.2rem] !leading-[1.6] !mb-8">
-              You can create your website in minutes with the help of countless
-              amazing features of Sandbox.
+              Launch AI-driven assistants in minutes and accelerate growth.
             </p>
           </div>
           <div

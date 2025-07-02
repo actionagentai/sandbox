@@ -36,7 +36,7 @@ export default function Facts() {
                   <Counter max={7518} />
                 </h3>
                 <p className="text-[0.8rem] font-medium !mb-0">
-                  Completed Projects
+                  Businesses Using Agents
                 </p>
               </div>
               {/*/column */}
@@ -64,7 +64,7 @@ export default function Facts() {
                   <Counter max={3472} />
                 </h3>
                 <p className="text-[0.8rem] font-medium !mb-0">
-                  Satisfied Customers
+                  Qualified Leads Generated
                 </p>
               </div>
               {/*/column */}
@@ -112,7 +112,7 @@ export default function Facts() {
                   <Counter max={2184} />
                 </h3>
                 <p className="text-[0.8rem] font-medium !mb-0">
-                  Expert Employees
+                  Connected Platforms
                 </p>
               </div>
               {/*/column */}
@@ -143,7 +143,7 @@ export default function Facts() {
                 <h3 className="counter xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] !tracking-[normal] !leading-none !mb-2">
                   <Counter max={4523} />
                 </h3>
-                <p className="text-[0.8rem] font-medium !mb-0">Awards Won</p>
+                <p className="text-[0.8rem] font-medium !mb-0">Languages Supported</p>
               </div>
               {/*/column */}
             </div>

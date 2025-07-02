@@ -22,13 +22,14 @@ export default function Features() {
             height={214}
           />
           <h2 className="!text-[0.8rem] uppercase !text-[#aab0bc] !mb-3 !text-center !leading-[1.35]">
-            Why Choose Sandbox?
+            What is Action Agent?
           </h2>
           <h3 className="!text-[calc(1.325rem_+_0.9vw)] font-bold !leading-[1.2] xl:!text-[2rem] !mb-14 !text-center">
-            Here are a few
-            <span className="text-gradient gradient-7">reasons why</span> our
-            customers choose the Sandbox app.
+            Your AI Agents that doesn’t just chat—it books, schedules, and sells while you focus on growing your business.
           </h3>
+          <p className="!mb-14 text-center">
+            Turn Every Conversation Into Revenue as your agents convert customer inquiries into confirmed bookings 24/7.
+          </p>
         </div>
         {/* /column */}
       </div>
@@ -76,7 +77,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Scheduled Transactions</h4>
+              <h4 className="!text-[1rem]">Real-time system integration</h4>
               <p>
                 Cum sociis natoque penatibus et magnis dis parturient montes,
                 nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis
@@ -105,7 +106,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Multiple Currencies</h4>
+              <h4 className="!text-[1rem]">Multi-model AI optimization</h4>
               <p>
                 Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit
                 libero, a pharetra augue. Maecenas faucibus mollis interdum.
@@ -133,7 +134,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Database Management</h4>
+              <h4 className="!text-[1rem]">Automated workflow actions</h4>
               <p>
                 Pellentesque ornare sem lacinia quam venenatis vestibulum.
                 Integer posuere erat a ante venenatis dapibus posuere velit
@@ -167,7 +168,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Sync Between Devices</h4>
+              <h4 className="!text-[1rem]">Complete visibility and insights</h4>
               <p>
                 Cum sociis natoque penatibus et magnis dis parturient montes,
                 nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis
@@ -200,7 +201,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Smart Search</h4>
+              <h4 className="!text-[1rem]">Smart Task Handling</h4>
               <p>
                 Aenean lacinia bibendum nulla sed consectetur. Nulla vitae elit
                 libero, a pharetra augue. Maecenas faucibus mollis interdum.
@@ -232,7 +233,7 @@ export default function Features() {
               </div>
             </div>
             <div>
-              <h4 className="!text-[1rem]">Detailed Reports</h4>
+              <h4 className="!text-[1rem]">Secure &amp; Adaptive AI Workflows</h4>
               <p>
                 Pellentesque ornare sem lacinia quam venenatis vestibulum.
                 Integer posuere erat a ante venenatis dapibus posuere velit

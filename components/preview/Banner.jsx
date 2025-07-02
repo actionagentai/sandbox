@@ -31,21 +31,19 @@ export default function Banner() {
                 height={48}
               />
               <h1 className="font-semibold !leading-[1.15] xl:!text-[3.2rem] !text-[calc(1.445rem_+_2.34vw)] !mt-5 !mb-5">
-                Think unique and make a difference with Sandbox.
+                Boost Your Business with AI Agents.
               </h1>
               <p className="lead !text-[1.2rem] !leading-[1.6] !mb-8 lg:!px-14 xl:!px-[4.5rem] xxl:!px-10">
-                We are trusted by thousands of clients. Join them now and easily
-                create your stunning website in no time.
+                Automate quotes, bookings, and sales with 24/7 assistance.
               </p>
             </div>
             <div className="flex justify-center">
               <span>
                 <a
-                  href="https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-nextjs-template/57540184"
+                  href="/contact"
                   className="btn btn-lg btn-grape !text-white !bg-[#605dba] border-[#605dba] hover:text-white hover:bg-[#605dba] hover:!border-[#605dba] active:text-white active:bg-[#605dba] active:border-[#605dba] disabled:text-white disabled:bg-[#605dba] disabled:border-[#605dba] btn-icon btn-icon-end !rounded-[0.8rem]"
-                  target="_blank"
                 >
-                  Buy Sandbox
+                  Get in Touch
                   <i className="uil uil-arrow-up-right !ml-[.3rem] before:content-['\e950']" />
                 </a>
               </span>

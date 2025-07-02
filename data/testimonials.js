@@ -1,21 +1,27 @@
 export const testimonials = [
   {
-    name: "Coriss Ambady",
-    title: "Financial Analyst",
+    name: "Aron Smith",
+    title: "Head of Customer Support",
     quote:
-      "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.",
+      "Our support team is lean, and Action.cr made it possible to offer 24/7 coverage. The multilingual support feature is especially valuable for our global customer base. Highly recommended!",
   },
   {
-    name: "Cory Zamora",
-    title: "Marketing Specialist",
+    name: "Jonh Rojers",
+    title: "Operations Manager, TransGlobal Logistics",
     quote:
-      "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.",
+      "We used agents to automate internal status updates and client communications. It now handles dozens of queries daily, saving us time and improving accuracy.",
   },
   {
-    name: "Nikolas Brooten",
+    name: "Kate Neville",
     title: "Sales Manager",
     quote:
-      "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum ligula porta felis euismod semper. Cras justo odio.",
+      "This platform has transformed how we manage incoming leads. The AI agents are responsive, smart, and integrate perfectly with our CRM. We've seen a 40% boost in qualified leads.",
+  },
+  {
+    name: "Mark Sorensen",
+    title: "SwiftCommerce",
+    quote:
+      "Deploying AI agents without writing a line of code was a game-changer. Action.cr gave us speed, flexibility, and automation that scaled effortlessly with our operations.",
   },
 ];
 
