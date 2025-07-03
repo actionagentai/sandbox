@@ -35,12 +35,10 @@ export default function Hero() {
               height={147}
             />
             <h1 className="xl:!text-[2.5rem] !text-[calc(1.375rem_+_1.5vw)] font-semibold !leading-[1.15] !mb-4">
-              Manage all your bills, accounts and budgets in{" "}
-              <span className="text-gradient gradient-7">one place.</span>
+              AI Agents ready to help your business
             </h1>
             <p className="lead !text-[1.2rem] !leading-[1.5] !font-normal !mb-7">
-              Sandbox is available to download from both App Store and Google
-              Play Store.
+              Your Smartest AI Chatbot – Always Ready to Assist! Experience seamless conversations, instant answers, and 24/7 support.
             </p>
             <div
               className="flex justify-center lg:!justify-start xl:!justify-start"

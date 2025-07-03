@@ -46,16 +46,16 @@ export default function Footer26() {
             <div className="widget">
               <h4 className="widget-title !mb-3">Get in Touch</h4>
               <address className="xl:!pr-[4rem] xxl:!pr-[5rem] not-italic !leading-[inherit] block !mb-4">
-                Moonshine St. 14/05 Light City, London, United Kingdom
+                11975 W Sample Rd, Coral Springs FL 33065
               </address>
               <a
                 className="!text-[#60697b] hover:!text-[#60697b]"
-                href="mailto:first.last@email.com"
+                href="mailto:info@actionagent.ai"
               >
-                info@email.com
+                info@actionagent.ai
               </a>
               <br />
-              00 (123) 456 78 90
+              +1 954 906 9919
             </div>
             {/* /.widget */}
           </div>

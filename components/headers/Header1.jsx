@@ -12,13 +12,12 @@ export default function Header1() {
       >
         <div className="container py-2 !text-center">
           <p className="!mb-0">
-            ✨ Tailwind Version of Sandbox: Already a Best Seller!{" "}
+            ✨ Pre-made Powerful AI Agents for Business
             <a
-              href="https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/51340309"
+              href="/contact"
               className="!text-white hover inline-flex items-center"
-              target="_blank"
             >
-              Grab Your Copy Now
+              Get in Touch
               <i className="uil uil-arrow-up-right before:content-['\e950']" />
             </a>
           </p>
@@ -41,7 +40,7 @@ export default function Header1() {
           <div className="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
             <div className="offcanvas-header xl:!hidden lg:!hidden flex items-center justify-between flex-row p-6">
               <h3 className="!text-white xl:!text-[1.5rem] !text-[calc(1.275rem_+_0.3vw)] !mb-0">
-                Sandbox
+                Action Agent
               </h3>
               <button
                 type="button"
@@ -56,14 +55,10 @@ export default function Header1() {
               {/* /.navbar-nav */}
               <div className="offcanvas-footer xl:!hidden lg:!hidden">
                 <div>
-                  <a
-                    href="mailto:first.last@email.com"
-                    className="link-inverse"
-                  >
-                    info@email.com
+                  <a href="mailto:info@actionagent.ai" className="link-inverse">
+                    info@actionagent.ai
                   </a>
-                  <br />
-                  00 (123) 456 78 90 <br />
+                  <br />+1 954 906 9919 <br />
                   <nav className="nav social social-white !mt-4">
                     {socialLinks.map((elm, i) => (
                       <a
@@ -88,13 +83,12 @@ export default function Header1() {
           <div className="navbar-other w-full flex !ml-auto">
             <ul className="navbar-nav !flex-row items-center !ml-auto">
               <li className="nav-item hidden xl:block lg:block md:block">
-                <a
-                  href="https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-nextjs-template/57540184"
+                <Link
+                  href={`/contact`}
                   className="btn btn-grape !text-white !bg-[#605dba] border-[#605dba] hover:text-white hover:bg-[#605dba] hover:!border-[#605dba] active:text-white active:bg-[#605dba] active:border-[#605dba] disabled:text-white disabled:bg-[#605dba] disabled:border-[#605dba] !rounded-[0.8rem]"
-                  target="_blank"
                 >
-                  Purchase Now
-                </a>
+                  Get in Touch
+                </Link>
               </li>
               <li className="nav-item xl:!hidden lg:!hidden">
                 <button className="hamburger offcanvas-nav-btn">

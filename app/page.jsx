@@ -7,9 +7,9 @@ import FeaturesSlider from "@/components/preview/FeaturesSlider";
 import Hero from "@/components/preview/Hero";
 export const metadata = {
   title:
-    "Preview || Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+    "Action Agent Demo Showcase - Pre-made AI Agents for Quote, Booking & Sales",
   description:
-    "Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+    "Explore Action Agent's ready-to-use AI agents that handle inquiries, automate sales, and boost engagement.",
 };
 export default function PreviewPage() {
   return (

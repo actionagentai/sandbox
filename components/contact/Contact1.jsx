@@ -2,6 +2,19 @@
 import React from "react";
 
 export default function Contact1() {
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    const formData = Object.fromEntries(new FormData(e.target).entries());
+    try {
+      await fetch("https://auto.luxura.ai/webhook/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      });
+    } catch (err) {
+      console.error(err);
+    }
+  };
   return (
     <section className="wrapper !bg-[#ffffff] relative border-0 upper-end before:top-[-4rem] before:border-l-transparent before:border-r-[100vw] before:border-t-[4rem] before:border-[#fefefe] before:content-[''] before:block before:absolute before:z-0 before:border-y-transparent before:border-0 before:border-solid before:right-0">
       <div className="container pb-12">
@@ -31,9 +44,7 @@ export default function Contact1() {
                       <div className="!self-start !justify-start">
                         <h5 className="!mb-1">Address</h5>
                         <address className="not-italic !leading-[inherit] !mb-4">
-                          Moonshine St. 14/05 Light City,
-                          <br className="hidden xl:block lg:block md:block" />
-                          London, United Kingdom
+                          11975 W Sample Rd, Coral Springs FL 33065
                         </address>
                       </div>
                     </div>
@@ -46,10 +57,7 @@ export default function Contact1() {
                       </div>
                       <div>
                         <h5 className="!mb-1">Phone</h5>
-                        <p>
-                          00 (123) 456 78 90 <br />
-                          00 (987) 654 32 10
-                        </p>
+                        <p>+1 954 906 9919</p>
                       </div>
                     </div>
                     {/*/div */}
@@ -63,18 +71,10 @@ export default function Contact1() {
                         <h5 className="!mb-1">E-mail</h5>
                         <p className="!mb-0">
                           <a
-                            href="mailto:sandbox@email.com"
+                            href="mailto:info@actionagent.ai"
                             className="!text-[#60697b]"
                           >
-                            sandbox@email.com
-                          </a>
-                        </p>
-                        <p className="!mb-0">
-                          <a
-                            href="mailto:help@sandbox.com"
-                            className="!text-[#60697b]"
-                          >
-                            help@sandbox.com
+                            info@actionagent.ai
                           </a>
                         </p>
                       </div>
@@ -103,7 +103,7 @@ export default function Contact1() {
             </p>
             <form
               className="contact-form needs-validation"
-              onSubmit={(e) => e.preventDefault()}
+              onSubmit={handleSubmit}
             >
               <div className="messages" />
               <div className="flex flex-wrap mx-[-10px]">

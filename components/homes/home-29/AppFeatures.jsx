@@ -23,12 +23,10 @@ export default function AppFeatures() {
               height={55}
             />
             <h2 className="!text-[0.8rem] !leading-[1.35] !tracking-[0.02rem] uppercase !text-[#aab0bc] !mb-3">
-              App Features
+              Advantages of AI-Agents
             </h2>
             <h3 className="xl:!text-[2rem] !text-[calc(1.325rem_+_0.9vw)] font-semibold !leading-[1.2] !mb-12 lg:!px-5 xl:!px-0 xxl:!px-6">
-              Sandbox makes your spending
-              <span className="text-gradient gradient-7">stress-free</span> for
-              you to have the perfect control.
+              See the Power of AI Agents in Action
             </h3>
           </div>
           {/* /column */}
@@ -250,12 +248,10 @@ export default function AppFeatures() {
               height={117}
             />
             <h2 className="!text-[0.8rem] !tracking-[0.02rem] uppercase !text-[#aab0bc] !mb-3 !leading-[1.35]">
-              How It Works
+              Next-level AI agents
             </h2>
             <h3 className="!text-[calc(1.325rem_+_0.9vw)] font-bold !leading-[1.2] xl:!text-[2rem] !mb-8 xl:!px-6">
-              Download the app, create your profile and
-              <span className="text-gradient gradient-7">voilà</span>, you're
-              all set!
+              Plug in your perfect AI agent and watch it transform your business
             </h3>
           </div>
           {/* /column */}
@@ -282,10 +278,9 @@ export default function AppFeatures() {
                   <span className="xl:!text-[3rem] !text-[calc(1.425rem_+_2.1vw)] !leading-none !mb-3 font-medium text-gradient gradient-7">
                     01
                   </span>
-                  <h4 className="!text-[1rem]">Download Application</h4>
+                  <h4 className="!text-[1rem]">Seamless Channel Support</h4>
                   <p className="!mb-0 xl:!px-7">
-                    Nulla vitae elit libero, a pharetra augue. Donec id elit non
-                    mi porta gravida at eget metus.
+                    Easily connect your AI Agent to the tools and platforms your audience already uses.
                   </p>
                 </div>
                 {/* /div */}
@@ -293,10 +288,9 @@ export default function AppFeatures() {
                   <span className="xl:!text-[3rem] !text-[calc(1.425rem_+_2.1vw)] !leading-none !mb-3 font-medium text-gradient gradient-7">
                     02
                   </span>
-                  <h4 className="!text-[1rem]">Quick Registration</h4>
+                  <h4 className="!text-[1rem]">Handles Unclear Requests with Ease</h4>
                   <p className="!mb-0 xl:!px-7">
-                    Nulla vitae elit libero, a pharetra augue. Donec id elit non
-                    mi porta gravida at eget metus.
+                    Our AI Agent understands casual chat, slang, typos, and incomplete sentences.
                   </p>
                 </div>
                 {/* /div */}
@@ -307,10 +301,9 @@ export default function AppFeatures() {
                   <span className="xl:!text-[3rem] !text-[calc(1.425rem_+_2.1vw)] !leading-none !mb-3 font-medium text-gradient gradient-7">
                     03
                   </span>
-                  <h4 className="!text-[1rem]">Track Your Spending</h4>
+                  <h4 className="!text-[1rem]">Multilingual AI Support</h4>
                   <p className="!mb-0 xl:!px-7">
-                    Nulla vitae elit libero, a pharetra augue. Donec id elit non
-                    mi porta gravida at eget metus.
+                    Break language barriers and respond instantly in over 80 languages.
                   </p>
                 </div>
                 {/* /div */}
@@ -318,10 +311,9 @@ export default function AppFeatures() {
                   <span className="xl:!text-[3rem] !text-[calc(1.425rem_+_2.1vw)] !leading-none !mb-3 font-medium text-gradient gradient-7">
                     04
                   </span>
-                  <h4 className="!text-[1rem]">Have Total Control</h4>
+                  <h4 className="!text-[1rem]">Connected Across All Platforms</h4>
                   <p className="!mb-0 xl:!px-7">
-                    Nulla vitae elit libero, a pharetra augue. Donec id elit non
-                    mi porta gravida at eget metus.
+                    Reach customers across all platforms with one unified system.
                   </p>
                 </div>
                 {/* /div */}

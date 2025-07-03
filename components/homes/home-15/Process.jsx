@@ -23,7 +23,7 @@ export default function Process() {
             />
           </svg>
           <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-4 xl:!px-[4.5rem] lg:!px-[4.5rem]">
-            Here are 3 working steps to organize our business projects.
+            See the Power of AI Agents in Action.
           </h2>
         </div>
         {/* /column */}
@@ -42,9 +42,9 @@ export default function Process() {
                   </span>
                 </div>
                 <div>
-                  <h4 className="!mb-1">Collect Ideas</h4>
+                  <h4 className="!mb-1">Seamless Channel Support</h4>
                   <p className="!mb-0">
-                    Nulla vitae elit libero pharetra augue dapibus.
+                    Connect your AI Agent to the tools and platforms your audience already uses.
                   </p>
                 </div>
               </div>
@@ -63,9 +63,9 @@ export default function Process() {
                   </span>
                 </div>
                 <div>
-                  <h4 className="!mb-1">Data Analysis</h4>
+                  <h4 className="!mb-1">Handles Unclear Requests with Ease</h4>
                   <p className="!mb-0">
-                    Vivamus sagittis lacus vel augue laoreet.
+                    Understands casual chat, slang, typos, and incomplete sentences.
                   </p>
                 </div>
               </div>
@@ -84,9 +84,9 @@ export default function Process() {
                   </span>
                 </div>
                 <div>
-                  <h4 className="!mb-1">Finalize Product</h4>
+                  <h4 className="!mb-1">Multilingual AI Support</h4>
                   <p className="!mb-0">
-                    Cras mattis consectetur purus sit amet.
+                    Automatically detects language and replies in more than 80 languages.
                   </p>
                 </div>
               </div>
@@ -98,23 +98,13 @@ export default function Process() {
         {/*/column */}
         <div className="xl:w-6/12 lg:w-6/12 w-full flex-[0_0_auto] xl:!px-[35px] lg:!px-[20px] !px-[15px] !mt-[50px] max-w-full">
           <h2 className="!text-[calc(1.265rem_+_0.18vw)] font-bold xl:!text-[1.4rem] !leading-[1.35] !mb-3">
-            How It Works?
+            AI-Driven Automation
           </h2>
           <p className="lead !text-[1.05rem] !leading-[1.6] font-medium xl:!pr-5 lg:!pr-5">
-            Find out everything you need to know and more about how we create
-            our business process models.
-          </p>
-          <p>
-            Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis
-            vestibulum. Etiam porta sem malesuada magna mollis euismod. Nullam
-            id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus
-            eget urna mollis ornare.
+            Empower your business with intelligent AI agents that automate workflows, respond instantly, and drive growth — all without writing a single line of code.
           </p>
           <p className="!mb-6">
-            Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id
-            ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed
-            consectetur. Sed posuere consectetur est at lobortis. Vestibulum id
-            ligula porta felis.
+            Experience faster operations, deeper insights, and smarter decision-making through next-gen automation.
           </p>
           <a
             href="#"

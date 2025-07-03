@@ -9,10 +9,9 @@ import Testimonials from "@/components/homes/home-29/Testimonials";
 import React from "react";
 
 export const metadata = {
-  title:
-    "Demo 29 || Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+  title: "Action Agent Demo || Pre-made AI Agents for Business",
   description:
-    "Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+    "Showcase of Action Agent's AI-driven automation and customer engagement features",
 };
 export default function DemoPage29() {
   return (

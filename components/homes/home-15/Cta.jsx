@@ -23,11 +23,10 @@ export default function Cta() {
               />
             </svg>
             <h2 className="!text-[calc(1.305rem_+_0.66vw)] font-bold xl:!text-[1.8rem] !leading-[1.3] !mb-3">
-              Join Our Community
+              Join us for the latest updates!
             </h2>
             <p className="lead text-[1.05rem] !leading-[1.6] font-medium !mb-6 xl:!px-10 xxl:!px-20">
-              We are trusted by over 5000+ clients. Join them by using our
-              services and grow your business.
+              Stay informed about our latest projects and insights.
             </p>
           </div>
           {/* /column */}
