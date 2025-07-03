@@ -6,10 +6,9 @@ import Header33 from "@/components/headers/Header33";
 import React from "react";
 
 export const metadata = {
-  title:
-    "Contact || Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+  title: "Contact || Action Agent - AI Agents for Business",
   description:
-    "Sandbox - Modern & Multipurpose React Next.js Template with Tailwind CSS",
+    "Get in touch with Action Agent to deploy AI-driven agents for quotes, bookings, and sales.",
 };
 export default function ContactPage() {
   return (

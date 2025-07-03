@@ -33,7 +33,7 @@ export default function Header33() {
           <div className="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
             <div className="offcanvas-header xl:!hidden lg:!hidden flex items-center justify-between flex-row p-6">
               <h3 className="!text-white xl:!text-[1.5rem] !text-[calc(1.275rem_+_0.3vw)] !mb-0">
-                Sandbox
+                Action Agent
               </h3>
               <button
                 type="button"
@@ -50,13 +50,13 @@ export default function Header33() {
               <div className="offcanvas-footer xl:!hidden lg:!hidden">
                 <div>
                   <a
-                    href="mailto:first.last@email.com"
+                    href="mailto:info@actionagent.ai"
                     className="link-inverse"
                   >
-                    info@email.com
+                    info@actionagent.ai
                   </a>
                   <br />
-                  00 (123) 456 78 90 <br />
+                  +1 954 906 9919 <br />
                   <nav className="nav social social-white !mt-4">
                     {socialLinks.map((elm, i) => (
                       <a
